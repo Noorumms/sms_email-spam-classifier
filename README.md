@@ -2,7 +2,7 @@
 
 > End-to-end NLP pipeline that detects spam messages with **97%+ accuracy** and **100% precision** — built, tuned, and deployed as a live web app.
 
-🔗 **[Live Demo →](https://your-app.streamlit.app)**
+🔗 **[Live Demo →](https://spam-checker-app.streamlit.app/)**
 
 ---
 
